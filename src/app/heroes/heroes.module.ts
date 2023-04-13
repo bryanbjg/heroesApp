@@ -4,6 +4,8 @@ import { AddComponent } from './pages/add/add.component';
 import { SearchComponent } from './pages/search/search.component';
 import { HomeComponent } from './pages/home/home.component';
 import { ListComponent } from './pages/list/list.component';
+import { HeroesComponent } from './pages/heroes/heroes.component';
+import { HeroesRoutingModule } from './heroes-routing.module';
 
 
 
@@ -12,10 +14,12 @@ import { ListComponent } from './pages/list/list.component';
     AddComponent,
     SearchComponent,
     HomeComponent,
-    ListComponent
+    ListComponent,
+    HeroesComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    HeroesRoutingModule
   ]
 })
 export class HeroesModule { }
