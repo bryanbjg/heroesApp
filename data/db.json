@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -166,6 +166,33 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "93OZ_ZM",
+      "superhero": "Superior Iron Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Iron Man",
+      "first_appearance": "Superior 1",
+      "characters": "Tony Stark",
+      "alt_img": ""
+    },
+    {
+      "id": "COMgWf3",
+      "superhero": "Superior Iron Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Iron Man",
+      "first_appearance": "Superior 1",
+      "characters": "Tony Stark",
+      "alt_img": "https://www.midtowncomics.com/images/PRODUCT/XL/1405647_xl.jpg"
+    },
+    {
+      "id": "JBS-qrm",
+      "superhero": "Superior Iron Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Iron Man",
+      "first_appearance": "Superior 1#",
+      "characters": "Tony Stark",
+      "alt_img": "https://www.midtowncomics.com/images/PRODUCT/XL/1405647_xl.jpg"
     }
   ]
 }
